@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Localization-05-08-2017
+
+  Created by Soeng Saravit on 8/5/17.
+  Copyright © 2017 Soeng Saravit. All rights reserved.
+*/
+
+"Welcome" = "Welcome";
+"kh-button" = "Khmer";
+"Home" = "Home";
+"Setting" = "Setting";
